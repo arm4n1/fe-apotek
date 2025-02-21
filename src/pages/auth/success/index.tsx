@@ -4,7 +4,7 @@ import Register from "@/components/views/register";
 const RegisterSuccessPage = () => {
     return (
         <AuthLayout title="Asy-Syifa | Register Success">
-            <Register>Register Success</Register>
+            <Register/>login success
         </AuthLayout>
     );
 };
